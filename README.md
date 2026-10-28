@@ -8,7 +8,7 @@ Topic cards display sample answers immediately. Matching topics open the related
 
 ## Publish your own live copy
 
-[**Open the Vercel setup flow**](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkogleshofficial-hub%2FCalculator-Cheat-Code%26project-name%3Dcalculator-cheat-code)
+[**Open the Vercel setup flow**](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkogleshofficial-hub%2FCalculator-Cheat-Code&project-name=calculator-cheat-code)
 
 Sign in to Vercel, connect GitHub when prompted, and deploy the project. This creates a deployment under the account you authorize; the exact live URL is provided by Vercel after a successful build.
 
