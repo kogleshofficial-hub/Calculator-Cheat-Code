@@ -10,7 +10,7 @@ Open index.html in a browser. It uses plain HTML, CSS, and JavaScript; no packag
 
 - A searchable chapter library based on the supplied spm_addmaths_complete_hacks guide.
 - Model-specific guidance for Casio ClassWiz EX, ClassWiz CW, and ES Plus families.
-- 16 local answer-checking tools, including quadratic equations, inverse/composite functions, AP sums, permutations/combinations, binomial probability, weighted means, regression, coordinate geometry, vectors, polar coordinates, logarithms, definite quadratic integrals, a rational derivative template, 3-variable systems, trigonometric roots, and linear-programming vertex checks.
+- 17 local answer-checking tools, including quadratic equations, inverse/composite functions, AP sums, permutations/combinations, binomial probability, weighted means, regression, coordinate geometry, vectors, polar coordinates, logarithms, definite quadratic integrals, a rational derivative template, 3-variable systems, trigonometric roots, and linear-programming vertex checks.
 - Mobile-responsive layout and no backend or external JavaScript libraries.
 
 ## Accuracy notes
