@@ -2,6 +2,16 @@
 
 A free, single-page calculator shortcut reference and interactive answer-checking toolkit for Malaysian Form 4 and Form 5 Additional Mathematics students.
 
+**Slogan: TAP. SOLVE. UNDERSTAND.**
+
+Topic cards display sample answers immediately. Matching topics open the related solver, which recalculates locally as values change and displays the formula plus worked details. The intentional no-backend design keeps calculations fast, private, and free from server/API waiting.
+
+## Publish your own live copy
+
+[**Open the Vercel setup flow**](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkogleshofficial-hub%2FCalculator-Cheat-Code%26project-name%3Dcalculator-cheat-code)
+
+Sign in to Vercel, connect GitHub when prompted, and deploy the project. This creates a deployment under the account you authorize; the exact live URL is provided by Vercel after a successful build.
+
 ## Run it
 
 Open index.html in a browser. It uses plain HTML, CSS, and JavaScript; no package installation, database, API key, or paid service is required.
